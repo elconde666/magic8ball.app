@@ -117,3 +117,8 @@ dist
 
 
 nodeBuildCommands.odt
+_javascript/
+_sass/
+lib/
+LICENSE
+css/main.css
