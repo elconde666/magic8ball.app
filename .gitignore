@@ -122,3 +122,7 @@ _sass/
 lib/
 LICENSE
 css/main.css
+
+
+# important stake pool files
+pool_files/
